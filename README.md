@@ -67,6 +67,5 @@ This project demonstrates how graphical visualizations can help understand the d
 ## Author
 Selvarani B
 
-**Karthikeyan**
 
 **Internship:** Prodigy InfoTech – Data Science Internship
